@@ -3120,17 +3120,6 @@ use with the file manager.</para>
             <row>
               <entry colname="colspec0" valign="top">
                 <para>
-                  <command>burn:///</command>
-                </para>
-              </entry>
-              <entry colname="colspec1" valign="top">
-                <para>This is a special location where you can copy files and folders that you want to write
-to a CD. From here you can write the contents of the location to a CD easily. See also <xref linkend="caja-cdwriter"/>.</para>
-              </entry>
-            </row>
-            <row>
-              <entry colname="colspec0" valign="top">
-                <para>
                   <command>network:///</command>
                 </para>
               </entry>

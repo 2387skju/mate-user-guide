@@ -8995,16 +8995,6 @@ msgid "URI Location"
 msgstr ""
 
 #. (itstool) path: entry/para
-#: C/goscaja.xml:3264
-msgid "<command>burn:///</command>"
-msgstr ""
-
-#. (itstool) path: entry/para
-#: C/goscaja.xml:3269
-msgid "This is a special location where you can copy files and folders that you want to write to a CD. From here you can write the contents of the location to a CD easily. See also <xref linkend=\"caja-cdwriter\"/>."
-msgstr ""
-
-#. (itstool) path: entry/para
 #: C/goscaja.xml:3275
 msgid "<command>network:///</command>"
 msgstr ""
